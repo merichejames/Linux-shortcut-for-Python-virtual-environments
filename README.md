@@ -6,7 +6,8 @@ A lightweight CLI tool to automate Python virtual environment setup and package 
 
 ```bash
 # Make executable and move to PATH
-sudo mv v /usr/local/bin/ && sudo chmod +x v 
+sudo mv v /usr/local/bin/
+enter to usr/local/bin/    open terminal  type  sudo chmod +x v 
 # Syntax
 v <env_name> <package_name>
 
